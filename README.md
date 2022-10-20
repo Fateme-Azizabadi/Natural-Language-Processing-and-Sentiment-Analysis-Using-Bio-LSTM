@@ -45,9 +45,8 @@ We use BIO-LSTM with the below features. Also, the results are brought here.
 
 
  
- ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using BIO-LSTM/blob/main/Images/Network.png)
+ ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using-Bio-LSTM/blob/main/Images/Network.png)
 
  
- ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using BIO-LSTM/blob/main/Images/Result.png)
- 
+ ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using-Bio-LSTM/blob/main/Images/Result.png
  
